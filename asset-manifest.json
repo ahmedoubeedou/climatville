@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ahmedoubeedou/climatville.git/static/css/main.c88a927c.css",
-    "main.js": "/ahmedoubeedou/climatville.git/static/js/main.db6b59e1.js",
+    "main.js": "/ahmedoubeedou/climatville.git/static/js/main.5ddf5f6c.js",
     "static/js/453.40c2c2a7.chunk.js": "/ahmedoubeedou/climatville.git/static/js/453.40c2c2a7.chunk.js",
     "index.html": "/ahmedoubeedou/climatville.git/index.html",
     "main.c88a927c.css.map": "/ahmedoubeedou/climatville.git/static/css/main.c88a927c.css.map",
-    "main.db6b59e1.js.map": "/ahmedoubeedou/climatville.git/static/js/main.db6b59e1.js.map",
+    "main.5ddf5f6c.js.map": "/ahmedoubeedou/climatville.git/static/js/main.5ddf5f6c.js.map",
     "453.40c2c2a7.chunk.js.map": "/ahmedoubeedou/climatville.git/static/js/453.40c2c2a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c88a927c.css",
-    "static/js/main.db6b59e1.js"
+    "static/js/main.5ddf5f6c.js"
   ]
 }
