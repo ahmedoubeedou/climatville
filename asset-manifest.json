@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/climatville/static/css/main.c88a927c.css",
-    "main.js": "/climatville/static/js/main.797e30d7.js",
+    "main.js": "/climatville/static/js/main.edbe8ba2.js",
     "static/js/453.40c2c2a7.chunk.js": "/climatville/static/js/453.40c2c2a7.chunk.js",
     "index.html": "/climatville/index.html",
     "main.c88a927c.css.map": "/climatville/static/css/main.c88a927c.css.map",
-    "main.797e30d7.js.map": "/climatville/static/js/main.797e30d7.js.map",
+    "main.edbe8ba2.js.map": "/climatville/static/js/main.edbe8ba2.js.map",
     "453.40c2c2a7.chunk.js.map": "/climatville/static/js/453.40c2c2a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c88a927c.css",
-    "static/js/main.797e30d7.js"
+    "static/js/main.edbe8ba2.js"
   ]
 }
